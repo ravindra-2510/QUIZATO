@@ -1,35 +1,5 @@
 {
-  "HTML": [
-    {
-      "id": 1,
-      "que": " HTML stands for -",
-      "op1": "HighText Machine Language",
-      "op2": "HyperText and links Markup Language",
-      "op3": "HyperText Markup Language",
-      "op4": "None of these",
-      "ans": "(C)HyperText Markup Language"
-    },
-    {
-      "id": 2,
-      "que": " The correct sequence of HTML tags for starting a webpage is -",
-      "op1": "Head, Title, HTML, body",
-      "op2": "HTML, Body, Title, Head",
-      "op3": "HTML, Head, Title, Body",
-      "op4": "HTML, Head, Title, Body",
-      "ans": " (d) HTML, Head, Title, Body"
-    },
-    {
-      "id": 3,
-      "que": "  <input> is -",
-      "op1": "a format tag.",
-      "op2": "an empty tag.",
-      "op3": "All of the above",
-      "op4": "None of the above",
-      "ans": " (b) an empty tag"
-    }
-  ],
-
-  "JAVA SCRIPT": [
+  "JAVASCRIPT": [
     {
       "id": 1,
       "que": " Which type of JavaScript language is ___",
@@ -69,6 +39,37 @@
       "ans": " (d)Ignores the statements"
     }
   ],
+  "HTML": [
+    {
+      "id": 1,
+      "que": " HTML stands for rohit-",
+      "op1": "HighText Machine Language",
+      "op2": "HyperText and links Markup Language",
+      "op3": "HyperText Markup Language",
+      "op4": "None of these",
+      "ans": "(C)HyperText Markup Language"
+    },
+    {
+      "id": 2,
+      "que": " The correct sequence of HTML tags for starting a webpage is -",
+      "op1": "Head, Title, HTML, body",
+      "op2": "HTML, Body, Title, Head",
+      "op3": "HTML, Head, Title, Body",
+      "op4": "HTML, Head, Title, Body",
+      "ans": " (d) HTML, Head, Title, Body"
+    },
+    {
+      "id": 3,
+      "que": "  <input> is -",
+      "op1": "a format tag.",
+      "op2": "an empty tag.",
+      "op3": "All of the above",
+      "op4": "None of the above",
+      "ans": " (b) an empty tag"
+    }
+  ],
+
+  
 
 
   "profile":[
