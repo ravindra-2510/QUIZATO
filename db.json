@@ -1,42 +1,265 @@
 {
   "JAVASCRIPT": [
     {
-      "id": 1,
-      "que": " Which type of JavaScript language is ___",
-      "op1": "Object-Oriented.",
-      "op2": "Object-Based.",
-      "op3": "Assembly-language",
-      "op4": "High-level",
-      "ans": " (b) Object-Based"
+      "ques": "dasd",
+      "opt1": "asd",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 1
     },
     {
-      "id": 2,
-      "que": "In JavaScript, what is a block of statement? ",
-
-      "op1": "Conditional block.",
-      "op2": "block that combines a number of statements into a single compound statement.",
-      "op3": "both conditional block and a single statement",
-      "op4": "block that contains a single statement",
-      "ans": " (b) block that combines a number of statements into a single compound statement"
+      "ques": "sadas",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 2
     },
     {
-      "id": 3,
-      "que": " Which one of the following also known as Conditional Expression:_",
-      "op1": "Alternative to if-else.",
-      "op2": "Switch statement.",
-      "op3": "If-then-else statement.",
-      "op4": "immediate if",
-      "ans": " (d)immediate if"
+      "ques": "sad",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "d",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 3
     },
-
     {
-      "id": 4,
-      "que": " When interpreter encounters an empty statements, what it will do:",
-      "op1": "Shows a warning.",
-      "op2": "Prompts to complete the statement.",
-      "op3": "Throws an error.",
-      "op4": "Ignores the statements",
-      "ans": " (d)Ignores the statements"
+      "ques": "sad",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 4
+    },
+    {
+      "ques": "asd",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "da",
+      "id": 5
+    },
+    {
+      "ques": "dad",
+      "opt1": "ad",
+      "opt2": "ada",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ada",
+      "id": 6
+    },
+    {
+      "ques": "adad",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 7
+    },
+    {
+      "ques": "ad",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 8
+    },
+    {
+      "ques": "ramesh",
+      "opt1": "yadav",
+      "opt2": "dad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 9
+    },
+    {
+      "ques": "sda",
+      "opt1": "ada",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ads",
+      "ans": "ada",
+      "id": 10
+    },
+    {
+      "ques": "ad",
+      "opt1": "as",
+      "opt2": "sd",
+      "opt3": "sd",
+      "opt4": "sd",
+      "ans": "sd",
+      "id": 11
+    },
+    {
+      "ques": "asda",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 12
+    },
+    {
+      "ques": "sdf",
+      "opt1": "sf",
+      "opt2": "sfs",
+      "opt3": "sf",
+      "opt4": "sf",
+      "ans": "sf",
+      "id": 13
+    },
+    {
+      "ques": "asda",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 14
+    },
+    {
+      "ques": "sdfs",
+      "opt1": "sf",
+      "opt2": "sf",
+      "opt3": "sf",
+      "opt4": "sf",
+      "ans": "sf",
+      "id": 15
+    },
+    {
+      "ques": "adad",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 16
+    },
+    {
+      "ques": "dsf",
+      "opt1": "sf",
+      "opt2": "sfs",
+      "opt3": "sfsf",
+      "opt4": "sfsf",
+      "ans": "sfs",
+      "id": 17
+    },
+    {
+      "ques": "sdad",
+      "opt1": "ad",
+      "opt2": "ada",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 18
+    },
+    {
+      "ques": "asda",
+      "opt1": "ad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 19
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 20
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 21
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 22
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 23
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 24
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 25
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 26
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 27
+    },
+    {
+      "ques": "",
+      "opt1": "",
+      "opt2": "",
+      "opt3": "",
+      "opt4": "",
+      "ans": "",
+      "id": 28
+    },
+    {
+      "ques": "sasd",
+      "opt1": "adad",
+      "opt2": "ad",
+      "opt3": "ad",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 29
     }
   ],
   "HTML": [
@@ -68,11 +291,7 @@
       "ans": " (b) an empty tag"
     }
   ],
-
-  
-
-
-  "profile":[
+  "profile": [
     {
       "id": 1,
       "que": " What is required in each C program?",
@@ -109,5 +328,5 @@
       "op4": "Garbage.",
       "ans": " (b) The current value of 'a'."
     }
-]
+  ]
 }
