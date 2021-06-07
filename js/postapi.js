@@ -1,8 +1,6 @@
 console.log("post api working!");
 let postBtn = document.getElementById("postBtn");
-postBtn.onclick = (event) => 
-{   event.preventDefault();
-    postData();};
+postBtn.onclick = () => postData();
 async function postData() {
     let ques = document.getElementById("ques").value;
     let opt1 = document.getElementById("option-1").value;
@@ -21,13 +19,13 @@ async function postData() {
     };
     params = {
         method: "post",
-        // headers: {
-        //     "Content-Type": "application/json",
-        // },
+        headers: {
+            "Content-Type": "application/json",
+        },
         body: JSON.stringify(obj),
     };
 
-    // await fetch(url, params).then(response=>response.json()).then(data=>console.log(data)).catch(err=>console.log(err));
+    await fetch(url, params).then(response=>response.json()).then(data=>console.log(data)).catch(err=>console.log(err));
 
     console.log(obj);
 }

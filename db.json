@@ -1,25 +1,22 @@
 {
   "JAVASCRIPT": [
     {
-      "ques": "",
-      "opt1": "",
-      "opt2": "",
-      "opt3": "",
-      "opt4": "",
-      "ans": "",
-      "id": 46
+      "ques": "what is the array?",
+      "opt1": "homogeneous\t",
+      "opt2": "heterogeneous",
+      "opt3": "non-linear",
+      "opt4": "not support direct addressing",
+      "ans": "homogeneous\t",
+      "id": 1
     },
     {
-      "id": 47
-    },
-    {
-      "id": 48
-    },
-    {
-      "id": 49
-    },
-    {
-      "id": 50
+      "ques": "new",
+      "opt1": "asas",
+      "opt2": "ad",
+      "opt3": "ass",
+      "opt4": "ad",
+      "ans": "ad",
+      "id": 2
     }
   ],
   "HTML": [

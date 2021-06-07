@@ -50,7 +50,7 @@ let html;
                   </div>
                   </div>
                   </div>`;
-                    html += html;
+                    // html += html;
                     element.innerHTML += html;
                     // console.log(data[i]);
                 }
